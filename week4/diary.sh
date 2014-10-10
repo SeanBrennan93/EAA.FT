@@ -6,4 +6,4 @@
 #: Description : Read Input
 #: Options : n/a
 
-
+echo "Please enter your value" read $input_variable1 >> diary.txt

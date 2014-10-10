@@ -1,4 +1,12 @@
 #!/bin/bash
+
+# Title : Question 5
+# Date : 03/10/14
+# Author : Sean Brennan
+# Version : 1.0
+# Description : Echo and read commands to print out inputted viarables
+# Options : n/a
+
 echo "Please Enter Your name: "
 read input_variable1
 echo "Please Enter the month you were born: "
