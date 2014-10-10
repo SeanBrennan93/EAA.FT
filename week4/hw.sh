@@ -7,7 +7,4 @@
 # Description : Code for processor count
 # Options : n/a
 
-printf "%s\n" "The Number of CPUs is" 
-
-grep processor /proc/cpuinfo | wc -l
-
+printf "%s\n" "Hello, World"
