@@ -7,5 +7,7 @@
 # Description : Code for processor count
 # Options : n/a
 
+# use printf here
+# or use echo
 grep processor /proc/cpuinfo | wc -l
 
