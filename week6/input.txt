@@ -1,0 +1,8 @@
+#!/bin/bash
+
+read txt
+#sanity check
+#printf "%s is the input\n" $txt
+
+thedate=$(_date_)
+printf "%s_%s" "$thedate" $txt >>diary.txt
